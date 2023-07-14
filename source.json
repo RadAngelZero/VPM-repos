@@ -1,5 +1,5 @@
 {
-    "name":"RadAngelZero",
+    "name":"RadAngelZero VPM Listing",
     "id":"vrchat.radangelzero.vpm",
     "url":"https://raw.githubusercontent.com/RadAngelZero/VPM-repos/main/source.json",
     "author":{
@@ -12,6 +12,7 @@
         "url":"https://github.com/RadAngelZero/VPM-repos",
         "text":"GitHub"
     },
+    "bannerUrl":"banner.png",
     "githubRepos":[
         "RadAngelZero/VRCThumbnailTool"
     ],
