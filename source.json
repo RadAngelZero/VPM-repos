@@ -1,18 +1,57 @@
 {
-    "name":"RadAngelZero VPM Listing",
-    "id":"com.radangelzero.vpm",
-    "url":"https://raw.githubusercontent.com/RadAngelZero/VPM-repos/main/source.json",
-    "author":{
-        "email":"radangelzero@gmail.com",
-        "name":"RadAngelZero",
-        "url":"https://github.com/RadAngelZero"
+    "name": "RadAngelZero VPM",
+    "id": "com.radangelzero.vpm",
+    "url": "https://raw.githubusercontent.com/RadAngelZero/VPM-repos/main/source.json",
+    "author": {
+        "email": "radangelzero@gmail.com",
+        "name": "RadAngelZero",
+        "url": "https://github.com/RadAngelZero"
     },
-    "description":"RadAngelZero List of Packages for VRChat",
-    "infoLink":{
-        "url":"https://github.com/RadAngelZero/VPM-repos",
-        "text":"GitHub"
+    "description": "RadAngelZero List of Packages for VRChat",
+    "infoLink": {
+        "url": "https://github.com/RadAngelZero/VPM-repos",
+        "text": "GitHub"
     },
-    "githubRepos":[
-        "RadAngelZero/VRCThumbnailTool"
-    ]
+    "packages": {
+        "vrchat.radangelzero.thumbnailtool": {
+            "versions": {
+                "0.0.3": {
+                    "name": "vrchat.radangelzero.thumbnailtool",
+                    "version": "0.0.3",
+                    "displayName": "ThumbnailTool",
+                    "description": "A tool for easy image upload for VRChat SDK",
+                    "unity": "2019.4",
+                    "documentationUrl": "https://github.com/RadAngelZero/VRCThumbnailTool",
+                    "changelogUrl": "https://github.com/RadAngelZero/VRCThumbnailTool/releases",
+                    "licensesUrl": "https://github.com/RadAngelZero/VRCThumbnailTool/blob/main/LICENSE",
+                    "license": "MIT",
+                    "keywords": [
+                        "VRChat",
+                        "Thumbnail",
+                        "Image"
+                    ],
+                    "url": "https://github.com/RadAngelZero/VRCThumbnailTool/releases/download/0.0.3/vrchat.radangelzero.thumbnailtool-0.0.3.zip?",
+                    "repo": "https://raw.githubusercontent.com/RadAngelZero/VPM-repos/main/source.json"
+                },
+                "0.0.2": {
+                    "name": "jp.lilxyzw.liltoon",
+                    "version": "0.0.2",
+                    "displayName": "ThumbnailTool",
+                    "description": "A tool for easy image upload for VRChat SDK",
+                    "unity": "2019.4",
+                    "documentationUrl": "https://github.com/RadAngelZero/VRCThumbnailTool",
+                    "changelogUrl": "https://github.com/RadAngelZero/VRCThumbnailTool/releases",
+                    "licensesUrl": "https://github.com/RadAngelZero/VRCThumbnailTool/blob/main/LICENSE",
+                    "license": "MIT",
+                    "keywords": [
+                        "VRChat",
+                        "Thumbnail",
+                        "Image"
+                    ],
+                    "url": "https://github.com/RadAngelZero/VRCThumbnailTool/releases/download/0.0.2/vrchat.radangelzero.thumbnailtool-0.0.2.zip?",
+                    "repo": "https://raw.githubusercontent.com/RadAngelZero/VPM-repos/main/source.json"
+                }
+            }
+        }
+    }
 }
