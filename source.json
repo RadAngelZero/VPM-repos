@@ -12,12 +12,7 @@
         "url":"https://github.com/RadAngelZero/VPM-repos",
         "text":"GitHub"
     },
-    "packages":[
-        {
-            "name":"vrchat.radangelzero.thumbnailtool",
-            "releases":[
-                "https://github.com/RadAngelZero/VRCThumbnailTool/releases/download/0.0.2/vrchat.radangelzero.thumbnailtool-0.0.2.zip"
-            ]
-        }
-    ]
+    "githubRepos":[
+        "RadAngelZero/VRCThumbnailTool"
+    ],
 }
