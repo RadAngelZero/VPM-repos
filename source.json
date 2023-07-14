@@ -1,6 +1,6 @@
 {
     "name":"RadAngelZero VPM Listing",
-    "id":"vrchat.radangelzero.vpm",
+    "id":"com.radangelzero.vpm",
     "url":"https://raw.githubusercontent.com/RadAngelZero/VPM-repos/main/source.json",
     "author":{
         "email":"radangelzero@gmail.com",
