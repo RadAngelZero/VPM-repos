@@ -10,7 +10,7 @@
                 "0.0.3": {
                     "name": "vrchat.radangelzero.thumbnailtool",
                     "version": "0.0.3",
-                    "displayName": "ThumbnailTool",
+                    "displayName": "Thumbnail Tool",
                     "description": "A tool for easy image upload for VRChat SDK",
                     "unity": "2019.4",
                     "documentationUrl": "https://github.com/RadAngelZero/VRCThumbnailTool",
@@ -28,7 +28,7 @@
                 "0.0.2": {
                     "name": "vrchat.radangelzero.thumbnailtool",
                     "version": "0.0.2",
-                    "displayName": "ThumbnailTool",
+                    "displayName": "Thumbnail Tool",
                     "description": "A tool for easy image upload for VRChat SDK",
                     "unity": "2019.4",
                     "documentationUrl": "https://github.com/RadAngelZero/VRCThumbnailTool",
