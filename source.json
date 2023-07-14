@@ -2,16 +2,8 @@
     "name": "RadAngelZero VPM",
     "id": "com.radangelzero.vpm",
     "url": "https://raw.githubusercontent.com/RadAngelZero/VPM-repos/main/source.json",
-    "author": {
-        "email": "radangelzero@gmail.com",
-        "name": "RadAngelZero",
-        "url": "https://github.com/RadAngelZero"
-    },
+    "author": "RadAngelZero",
     "description": "RadAngelZero List of Packages for VRChat",
-    "infoLink": {
-        "url": "https://github.com/RadAngelZero/VPM-repos",
-        "text": "GitHub"
-    },
     "packages": {
         "vrchat.radangelzero.thumbnailtool": {
             "versions": {
@@ -34,7 +26,7 @@
                     "repo": "https://raw.githubusercontent.com/RadAngelZero/VPM-repos/main/source.json"
                 },
                 "0.0.2": {
-                    "name": "jp.lilxyzw.liltoon",
+                    "name": "vrchat.radangelzero.thumbnailtool",
                     "version": "0.0.2",
                     "displayName": "ThumbnailTool",
                     "description": "A tool for easy image upload for VRChat SDK",
