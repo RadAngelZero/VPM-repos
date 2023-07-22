@@ -1,7 +1,7 @@
 {
     "name": "RadAngelZero VPM",
     "id": "com.radangelzero.vpm",
-    "url": "https://raw.githubusercontent.com/RadAngelZero/VPM-repos/main/source.json",
+    "url": "https://radangelzero.github.io/VPM-repos/source.json",
     "author": "RadAngelZero",
     "description": "RadAngelZero List of Packages for VRChat",
     "packages": {
