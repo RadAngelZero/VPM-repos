@@ -1,14 +1,14 @@
 {
-    "name":"RadAngelZero VPM Repo",
+    "name":"RadAurum VPM Repo",
     "id":"io.github.radangelzero.vpm",
-    "url":"https://radangelzero.github.io/VPM-repos/index.json",
+    "url":"https://radaurum.github.io/VPM-repos/index.json",
     "author":{
-        "name":"RadAngelZero",
-        "url":"https://github.com/radangelzero"
+        "name":"RadAurum",
+        "url":"https://github.com/radaurum"
     },
-    "description":"RadAngelZero List of Packages for VRChat.",
+    "description":"RadAurum List of Packages for VRChat.",
     "infoLink":{
-        "url":"https://radangelzero.github.io/VPM-repos",
+        "url":"https://radaurum.github.io/VPM-repos",
         "text":"About"
     },
     "bannerUrl":"",
